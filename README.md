@@ -1,6 +1,6 @@
-# TaffyTangle
+# TicTacToe
 
-This was a project to build a Candy Crush like game using Python2 and pyGame.
+This was a project to build TicTacToe using Python2 and pyGame.
 
 The game is made using the following libraries.
 - PyGame
@@ -14,7 +14,7 @@ After completing the steps mentioned in the link above. Do the following:
 - Open Terminal or Command Prompt
 - Change directory to the downloaded directory of the project
 - Run the following:
-  - python prob2.py
+  - python prob1.py
 
 Thank You,
 Ishan Vyas
